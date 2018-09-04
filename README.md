@@ -40,7 +40,7 @@ Common sense, the first is the right answer.
 
 To install from GitHub, use
 
-    pip install git+https://github.com/haven-jeon/PyKoSpacing.git
+    pip install git+https://github.com/koomook/PyKoSpacing.git
 
 
 #### Example 
