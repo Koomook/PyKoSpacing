@@ -4,7 +4,7 @@ from pykospacing import __version__
 
 setup(name='pykospacing',
       version=__version__,
-      url='https://github.com/haven-jeon/PyKoSpacing',
+      url='https://github.com/koomook/PyKoSpacing',
       license='GPL-3',
       author='Heewon Jeon',
       author_email='madjakarta@gmail.com',
@@ -15,10 +15,6 @@ setup(name='pykospacing',
       include_package_data=True,
 
       install_requires=[
-          'tensorflow <= 1.6.0',
-          'keras >= 2.1.5',
-          'h5py >= 2.7.1',
-          'argparse >= 1.4.0',
       ],
 
       entry_points={
