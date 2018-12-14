@@ -2,7 +2,7 @@ from setuptools import setup
 from pykospacing import __version__
 
 
-setup(name='pykospacing',
+setup(name='1.0.0',
       version=__version__,
       url='https://github.com/koomook/PyKoSpacing',
       license='GPL-3',
